@@ -14,7 +14,7 @@ https://v-fonts.com
 
 https://animejs.com
 
-https://raw.githubusercontent.com/JulienDrochon/libraries-text-effects/master/anime.gif
+<img src="https://raw.githubusercontent.com/JulienDrochon/libraries-text-effects/master/anime.gif" />
 
 https://codepen.io/collection/XLebem/#
 
@@ -23,7 +23,7 @@ https://codepen.io/collection/XLebem/#
 
 https://tobiasahlin.com/moving-letters/
 
-https://raw.githubusercontent.com/JulienDrochon/libraries-text-effects/master/moving-letters.gif
+<img src="https://raw.githubusercontent.com/JulienDrochon/libraries-text-effects/master/moving-letters.gif" />
 
 ## Textilate
 

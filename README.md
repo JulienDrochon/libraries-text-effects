@@ -55,10 +55,15 @@ https://two.js.org/examples/text.html
 
 <img src="https://two.js.org/examples/">
 
-https://two.js.org/images/examples/text.gif
-https://two.js.org/images/examples/anchors.gif
-https://two.js.org/images/examples/vertices.gif
-https://two.js.org/images/examples/fresh.gif
+<img src="https://two.js.org/images/examples/text.gif">
+<img src="https://two.js.org/images/examples/anchors.gif">
+<img src="https://two.js.org/images/examples/vertices.gif">
+<img src="https://two.js.org/images/examples/fresh.gif">
+
+## zdog
+
+https://zzz.dog/
+<img src="https://raw.githubusercontent.com/JulienDrochon/libraries-text-effects/master/zdog.gif">
 
 
 

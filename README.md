@@ -53,7 +53,7 @@ https://github.com/mojs/mojs
 
 https://two.js.org/examples/text.html
 
-<img src="https://two.js.org/examples/">
+https://two.js.org/examples/
 
 <img src="https://two.js.org/images/examples/text.gif">
 <img src="https://two.js.org/images/examples/anchors.gif">
@@ -63,6 +63,7 @@ https://two.js.org/examples/text.html
 ## zdog
 
 https://zzz.dog/
+
 <img src="https://raw.githubusercontent.com/JulienDrochon/libraries-text-effects/master/zdog.gif">
 
 

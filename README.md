@@ -37,4 +37,5 @@ https://codepen.io/search/pens?q=kinetic typography
 
 https://stackoverflow.com/questions/48352581/animate-svg-text-along-a-text-path-only-when-hovering-over-a-circle
 
+<img src="https://raw.githubusercontent.com/JulienDrochon/libraries-text-effects/master/svg%20path.gif">
 

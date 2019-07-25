@@ -12,13 +12,18 @@ https://v-fonts.com
 
 ## anime.js
 
-https://animejs.com/
+https://animejs.com
+
+https://raw.githubusercontent.com/JulienDrochon/libraries-text-effects/master/anime.gif
+
 https://codepen.io/collection/XLebem/#
 
 # Animation
 ## Moving Letters
 
 https://tobiasahlin.com/moving-letters/
+
+https://raw.githubusercontent.com/JulienDrochon/libraries-text-effects/master/moving-letters.gif
 
 ## Textilate
 

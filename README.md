@@ -7,6 +7,14 @@ https://blotter.js.org
 
 Blotter provides a simple interface for building and manipulating text effects that utilize GLSL shaders without requiring that the designer write GLSL. Blotter has a growing library of configurable effects while also providing ways for student or experienced GLSL programmers to quickly bootstrap new ones.
 
+## Variable fonts
+https://v-fonts.com
+
+## anime.js
+
+https://animejs.com/
+https://codepen.io/collection/XLebem/#
+
 # Animation
 ## Moving Letters
 
@@ -15,4 +23,9 @@ https://tobiasahlin.com/moving-letters/
 ## Textilate
 
 https://textillate.js.org/
+
+## codepen
+
+https://codepen.io/search/pens?q=kinetic typography
+
 

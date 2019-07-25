@@ -39,3 +39,16 @@ https://stackoverflow.com/questions/48352581/animate-svg-text-along-a-text-path-
 
 <img src="https://raw.githubusercontent.com/JulienDrochon/libraries-text-effects/master/svg%20path.gif">
 
+## Matterjs
+
+<img src="https://raw.githubusercontent.com/JulienDrochon/libraries-text-effects/master/matterjs.gif">
+
+## Motion js
+
+https://github.com/mojs/mojs
+
+<img src="https://raw.githubusercontent.com/JulienDrochon/libraries-text-effects/master/motionjs.gif" >
+
+
+
+
